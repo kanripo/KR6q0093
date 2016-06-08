@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:12.665699
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:04
 #+TITLE: 萬善同歸集
 #+PROPERTY: CBETA_ID T48n2017
 #+PROPERTY: ID KR6q0093
